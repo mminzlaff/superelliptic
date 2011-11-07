@@ -1,0 +1,30 @@
+=== 2.2 (2011-11-07) ===
+
+* initial release on github
+* sped up LinearRecurrence code (by 15%-20%)
+* tests added
+* split up code into the files "linearrecurrence.m" and "superelliptic.m"
+* added specification file "superelliptic"
+* cleaned up code
+
+=== 2.1 (2011-10-17) ===
+
+* sped up LinearRecurrence code (ca. factor 3)
+
+=== 2.0 (2011-06-03) ===
+
+* added support for nonprime constant fields
+* cleaned up code
+
+=== 1.0.2 (2010-12-07) ===
+
+* minor bug fixes
+
+=== 1.0.1 (2010) ===
+
+* output to user that current implementation needs a prime constant
+  field
+
+=== 1.0 (2009) ===
+
+* initial release
